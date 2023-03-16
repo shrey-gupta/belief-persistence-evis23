@@ -8,6 +8,6 @@
 3. **plots:** Contains plots produced for the paper. The remaining plots (if not present) can be found in scripts: belief persistence.Rproj, paper_plots,ipynb
 
 ## Files: 
-1. study-flow-snapshots: contains snapshots of the final study 
-2. accessMongo: accessing data from the database and creating csv files 
-3. paper_plots, analysis.R: analysis and plots created in the paper
+1. **study-flow-snapshots:** contains snapshots of the final study 
+2. **accessMongo:** accessing data from the database and creating csv files 
+3. **paper_plots, analysis.R:** analysis and plots created in the paper
