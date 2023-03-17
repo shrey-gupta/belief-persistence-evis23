@@ -9,10 +9,10 @@ _**paper:** "Belief Decay or Persistence? A Mixed-method Study on Belief Movemen
       * qual-for-quant: qualitative analysis for quantitative trends
 
 2. **data:** Contains datasets used for: 
-      --> quantitative analysis
-      --> qualitative analysis and prototypical coding performed (as well as grouping/slicing for decay, maintenance, and strengthen)
-      --> pilot data collected (version 1 to version 3)
-      --> exploratory analysis (consistency analysis)
+      * quantitative analysis
+      * qualitative analysis and prototypical coding performed (as well as grouping/slicing for decay, maintenance, and strengthen)
+      * pilot data collected (version 1 to version 3)
+      * exploratory analysis (consistency analysis)
 
 3. **plots:** Contains plots produced for the paper. The remaining plots (if not present) can be found in scripts: belief persistence.Rproj, paper_plots,ipynb
 
