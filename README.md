@@ -5,8 +5,8 @@ _**paper:** "Belief Decay or Persistence? A Mixed-method Study on Belief Movemen
 
 ## Folders Description:
 1. **3-trial-quant-qual:** Contains datasets (especially slicing performed) used in the exploratory analysis.
-      --> quant-for-qual: quantitative analysis for qualitative trends
-      --> qual-for-quant: qualitative analysis for quantitative trends
+      * quant-for-qual: quantitative analysis for qualitative trends
+      * qual-for-quant: qualitative analysis for quantitative trends
 
 2. **data:** Contains datasets used for: 
       --> quantitative analysis
