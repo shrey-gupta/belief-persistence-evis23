@@ -1,6 +1,6 @@
 # Codebase, Analysis and Datasets (Project: Belief Persistence, at EuroVis 2023)
 
-_**paper:** "Belief Decay or Persistence? A Mixed-method Study on Belief Movement Over Time"_
+**paper:** _"Belief Decay or Persistence? A Mixed-method Study on Belief Movement Over Time"_
 
 
 ## Folders Description:
